@@ -1,4 +1,3 @@
-# Financial-Data-Analysis-Mid-Level-
 # **Financial Data Analysis Project**
 
 ## **Overview**
