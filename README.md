@@ -31,8 +31,8 @@ This repository contains a financial data analysis project aimed at analyzing re
    - ***This document, providing an overview of the project.***
 
 5. **Looker Studio Dashboard**:
-   - ***The visualization dashboard can be accessed [here](https://lookerstudio.google.com/u/0/reporting/048909a3-8ecd-40b7-afeb-19b0a8230c11/page/vPsXE).***
-
+   - ***The visualization dashboard can be accessed [here](https://lookerstudio.google.com/reporting/f21e910c-3d6d-442a-aaee-164e96b157cb).***
+![image](https://github.com/user-attachments/assets/e45805a0-cd2f-45c2-898f-68e707b9e97a)
 ---
 
 ## **Steps in the Analysis**
